@@ -1,0 +1,13 @@
+{
+    "name": "Norminette",
+    "id": "norminette",
+    "version": "1.0.0",
+    "description": " A feature that adds the Norminette format checker from 42 School",
+    "dependsOn": {
+        "ghcr.io/devcontainers/features/python:1": {}
+    },
+    
+    "installsAfter": [
+        "ghcr.io/devcontainers/features/common-utils"
+    ]
+}
