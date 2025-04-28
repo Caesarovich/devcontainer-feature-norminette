@@ -1,10 +1,9 @@
-# Dev Container Feature - Norminette
 
-This feature installs the [Norminette](https://github.com/42school/norminette) format checker from the [42 School](https://en.wikipedia.org/wiki/42_(school)) on your dev container.
+# Norminette (norminette)
+
+ A feature that adds the Norminette format checker from 42 School
 
 ## Example Usage
-
-Include this in your `.devcontainer/devcontainer.json` file:
 
 ```json
 "features": {
@@ -12,11 +11,10 @@ Include this in your `.devcontainer/devcontainer.json` file:
 }
 ```
 
-## Options
-
-None.
 
 
-## Contributing
 
-If you find a bug or have a feature request, please open an issue. Pull requests are also welcome.
+
+---
+
+_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/Caesarovich/devcontainer-feature-norminette/blob/main/src/norminette/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
